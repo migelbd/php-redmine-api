@@ -1,15 +1,19 @@
 {
-    "name": "kbsali/redmine-api",
+    "name": "svenr/redmine-api",
     "type": "library",
     "description": "Redmine API client",
-    "homepage": "https://github.com/kbsali/php-redmine-api",
+    "homepage": "https://github.com/migelbd/php-redmine-api",
     "keywords": ["redmine", "api"],
     "license": "MIT",
     "authors": [{
         "name": "Kevin Saliou",
         "email": "kevin@saliou.name",
         "homepage": "http://kevin.saliou.name"
-    }],
+    },
+        {
+            "name": "Sven",
+            "email": "admin@agava.space"
+        }],
     "require": {
         "php": "^5.4 || ^7.2",
         "ext-curl": "*",
